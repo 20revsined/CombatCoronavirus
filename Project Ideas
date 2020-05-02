@@ -1,0 +1,5 @@
+authentication for users
+tracking location in the background (when using another app or idle)
+import data from internet for number of coronavirus cases per state
+firestore
+flutter
